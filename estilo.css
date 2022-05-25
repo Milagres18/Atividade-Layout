@@ -1,0 +1,59 @@
+body {
+    background: url(fundo.png);
+    text-align: center;
+}
+
+
+p {
+    display: block;
+}
+
+img {
+    width: 30%;
+    margin: 15px;
+    padding: 5px;
+    text-align: center;
+}
+
+
+#titulo {
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+#texto {
+    text-align: center;
+    font-weight: 400;
+    font-size: 22px;
+    color: rgba(255, 255, 255, 0.247);
+    opacity: .75;
+}
+
+.corpo {
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    margin-left: 350px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.imagem3 {
+   width: 28%;
+}
+
+li:hover {
+    background-color: honeydew;
+    color: black;
+}
+
+li {
+    display: inline-block;
+    border: 1px solid;
+    margin-left: 20px;
+    padding: 7px;
+    border-radius: 5px;
+    color: honeydew;
+}
